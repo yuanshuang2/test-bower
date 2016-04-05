@@ -1,0 +1,23 @@
+{
+  "name": "test-bower",
+  "homepage": "https://github.com/yuanshuang2/test-bower",
+  "authors": [
+    "袁双"
+  ],
+  "description": "描述模块",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "模块关键字"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
